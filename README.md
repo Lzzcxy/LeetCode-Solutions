@@ -8,6 +8,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Stack
 |  |
 | ------- |
