@@ -80,8 +80,10 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
