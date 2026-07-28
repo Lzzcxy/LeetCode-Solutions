@@ -75,7 +75,7 @@
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
-| [3812-smallest-palindromic-rearrangement-i](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
@@ -87,9 +87,9 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
-| [3812-smallest-palindromic-rearrangement-i](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
 | ------- |
-| [3812-smallest-palindromic-rearrangement-i](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
