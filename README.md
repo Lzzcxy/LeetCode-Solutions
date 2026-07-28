@@ -8,7 +8,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
-| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,8 +31,8 @@
 | [0203-remove-linked-list-elements](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
-| [0908-middle-of-the-linked-list](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
-| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -50,8 +50,8 @@
 | [0142-linked-list-cycle-ii](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
-| [0908-middle-of-the-linked-list](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
-| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -60,7 +60,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
-| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -74,19 +74,19 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
-| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
-| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
-| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
