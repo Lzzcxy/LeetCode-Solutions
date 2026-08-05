@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -54,6 +55,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
@@ -90,6 +92,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0347-top-k-frequent-elements](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
