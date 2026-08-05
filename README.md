@@ -12,6 +12,7 @@
 | [0239-sliding-window-maximum](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1019-squares-of-a-sorted-array](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
@@ -59,6 +60,7 @@
 | [0344-reverse-string](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
 |  |
@@ -87,6 +89,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1019-squares-of-a-sorted-array](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
