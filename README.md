@@ -89,7 +89,7 @@
 | [0002-add-two-numbers](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
-| [1617-stone-game-iv](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
+| [1510-stone-game-iv](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Sorting
 |  |
 | ------- |
@@ -192,25 +192,25 @@
 ## Dynamic Programming
 |  |
 | ------- |
-| [1617-stone-game-iv](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
+| [1510-stone-game-iv](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
-| [1617-stone-game-iv](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
+| [1510-stone-game-iv](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
-| [1617-stone-game-iv](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
+| [1510-stone-game-iv](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Nim Game
 |  |
 | ------- |
-| [1617-stone-game-iv](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
+| [1510-stone-game-iv](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## SpragueâGrundy Theorem
 |  |
 | ------- |
-| [1617-stone-game-iv](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
+| [1510-stone-game-iv](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
-| [1617-stone-game-iv](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
+| [1510-stone-game-iv](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
