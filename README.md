@@ -115,6 +115,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0257-binary-tree-paths](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -174,6 +175,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -184,6 +186,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -196,6 +199,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -219,7 +223,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
-## SpragueÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
@@ -231,4 +235,8 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
