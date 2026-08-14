@@ -228,7 +228,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
-## Sprague Grundy Theorem
+## Sprague Grundy Theorem
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
