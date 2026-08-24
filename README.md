@@ -180,7 +180,7 @@
 | [0257-binary-tree-paths](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
-| [1008-binary-tree-cameras](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1008-binary-tree-cameras) |
+| [0968-binary-tree-cameras](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0968-binary-tree-cameras) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -195,7 +195,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
-| [1008-binary-tree-cameras](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1008-binary-tree-cameras) |
+| [0968-binary-tree-cameras](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0968-binary-tree-cameras) |
 ## Binary Tree
 |  |
 | ------- |
@@ -213,7 +213,7 @@
 | [0257-binary-tree-paths](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
-| [1008-binary-tree-cameras](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1008-binary-tree-cameras) |
+| [0968-binary-tree-cameras](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0968-binary-tree-cameras) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -225,7 +225,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
-| [1008-binary-tree-cameras](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1008-binary-tree-cameras) |
+| [0968-binary-tree-cameras](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0968-binary-tree-cameras) |
 | [1510-stone-game-iv](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
@@ -271,5 +271,5 @@
 ## DP on Trees
 |  |
 | ------- |
-| [1008-binary-tree-cameras](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1008-binary-tree-cameras) |
+| [0968-binary-tree-cameras](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0968-binary-tree-cameras) |
 <!---LeetCode Topics End-->
