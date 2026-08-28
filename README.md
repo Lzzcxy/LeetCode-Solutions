@@ -9,6 +9,7 @@
 | [0001-two-sum](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0046-permutations](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
@@ -260,6 +261,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0131-palindrome-partitioning](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
