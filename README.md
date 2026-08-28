@@ -116,6 +116,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
@@ -229,6 +230,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0968-binary-tree-cameras](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0968-binary-tree-cameras) |
 | [1510-stone-game-iv](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Minimax
@@ -259,6 +261,7 @@
 |  |
 | ------- |
 | [0077-combinations](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0077-combinations) |
+| [0131-palindrome-partitioning](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Lifting
