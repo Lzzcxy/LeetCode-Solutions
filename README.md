@@ -200,7 +200,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
-| [0770-couples-holding-hands](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0770-couples-holding-hands) |
+| [0765-couples-holding-hands](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0765-couples-holding-hands) |
 | [0968-binary-tree-cameras](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0968-binary-tree-cameras) |
 ## Binary Tree
 |  |
@@ -229,7 +229,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
-| [0770-couples-holding-hands](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0770-couples-holding-hands) |
+| [0765-couples-holding-hands](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0765-couples-holding-hands) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -289,13 +289,13 @@
 ## Greedy
 |  |
 | ------- |
-| [0770-couples-holding-hands](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0770-couples-holding-hands) |
+| [0765-couples-holding-hands](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0765-couples-holding-hands) |
 ## Union-Find
 |  |
 | ------- |
-| [0770-couples-holding-hands](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0770-couples-holding-hands) |
+| [0765-couples-holding-hands](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0765-couples-holding-hands) |
 ## Graph Theory
 |  |
 | ------- |
-| [0770-couples-holding-hands](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0770-couples-holding-hands) |
+| [0765-couples-holding-hands](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0765-couples-holding-hands) |
 <!---LeetCode Topics End-->
