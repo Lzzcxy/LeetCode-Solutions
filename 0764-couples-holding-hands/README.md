@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/couples-holding-hands">770. Couples Holding Hands</a></h2><h3>Hard</h3><hr><p>There are <code>n</code> couples sitting in <code>2n</code> seats arranged in a row and want to hold hands.</p>
+<h2><a href="https://leetcode.com/problems/couples-holding-hands">765. Couples Holding Hands</a></h2><h3>Hard</h3><hr><p>There are <code>n</code> couples sitting in <code>2n</code> seats arranged in a row and want to hold hands.</p>
 
 <p>The people and seats are represented by an integer array <code>row</code> where <code>row[i]</code> is the ID of the person sitting in the <code>i<sup>th</sup></code> seat. The couples are numbered in order, the first couple being <code>(0, 1)</code>, the second couple being <code>(2, 3)</code>, and so on with the last couple being <code>(2n - 2, 2n - 1)</code>.</p>
 
