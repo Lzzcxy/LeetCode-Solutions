@@ -17,6 +17,7 @@
 | [0239-sliding-window-maximum](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0695-max-area-of-island](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0904-fruit-into-baskets](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -205,6 +206,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
+| [0695-max-area-of-island](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0765-couples-holding-hands](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0765-couples-holding-hands) |
 | [0968-binary-tree-cameras](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0968-binary-tree-cameras) |
 ## Binary Tree
@@ -235,6 +237,7 @@
 | [0200-number-of-islands](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
+| [0695-max-area-of-island](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0765-couples-holding-hands](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0765-couples-holding-hands) |
 ## Dynamic Programming
 |  |
@@ -300,6 +303,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0765-couples-holding-hands](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0765-couples-holding-hands) |
 ## Graph Theory
 |  |
@@ -309,4 +313,5 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
