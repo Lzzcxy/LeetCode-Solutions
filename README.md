@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -121,6 +122,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0344-reverse-string) |
@@ -193,6 +195,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
@@ -276,6 +279,7 @@
 | ------- |
 | [0046-permutations](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
@@ -315,6 +319,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Lzzcxy/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 ## Topological Sort
